@@ -12,3 +12,6 @@ Personal landing page. Links to main projects and contact information.
 - Website: [axelfreeman.com](https://axelfreeman.com)
 - Telegram: [@axelfreeman](https://t.me/axelfreeman)
 - GitHub: [@axelfreeman](https://github.com/axelfreeman)
+---
+
+*Last updated: August 2026.*
